@@ -1,5 +1,5 @@
 (function(){
     console.log("Hi thre");
-    //github test
+    //github test from Intellij
 })();
 console.log("test");
